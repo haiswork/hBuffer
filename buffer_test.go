@@ -1,4 +1,4 @@
-package hbuffer
+package hBuffer
 
 import (
 	"testing"
